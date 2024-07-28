@@ -1,0 +1,13 @@
+numpy
+pytorch
+datasets
+evaluate
+transformers
+pytorch
+numpy
+langchain
+langchain-community
+langchain-openai
+openai
+transformers[torch]
+google-cloud-aiplatform
